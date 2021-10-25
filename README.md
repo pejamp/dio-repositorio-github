@@ -9,8 +9,8 @@ Uma aplicação desenvolvida somente com o intuito de obter experiência no uso 
 
 ## Screenshots
 
-![Web]('./readme-images/web.png')
-![Mobile]('./readme-images/mobile.png')
+![Web](https://github.com/pejamp/flex-box/blob/main/readme-images/web.png)
+![Mobile](https://github.com/pejamp/flex-box/blob/main/readme-images/mobile.png)
 
 ## Author
 
