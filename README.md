@@ -9,8 +9,8 @@ Uma aplicação desenvolvida somente com o intuito de obter experiência no uso 
 
 ## Screenshots
 
-![Web]('.gitignore/web.png')
-![Mobile]('.gitignore/mobile.png')
+![Web]('./readme-images/web.png')
+![Mobile]('./readme-images/mobile.png')
 
 ## Author
 
